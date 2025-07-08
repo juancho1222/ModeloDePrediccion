@@ -1,0 +1,2 @@
+Este repositorio contiene un código en Python para realizar una predicción basada en aprendizaje automático.
+Para ejecutar correctamente el código, es necesario crear una carpeta con el nombre data_split_personalizado, en la cual se debe ubicar tanto el archivo del dataset como el script de predicción.
